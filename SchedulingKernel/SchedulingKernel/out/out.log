@@ -1,0 +1,1893 @@
+Run manually!
+Successful initialization time:0
+
+		time 1
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 2
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 9	0	0	0
+		running pid: 1		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 3
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 9	0	0	0
+		running pid: 1		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 4
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 8	1	0	0
+		running pid: 2		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 5
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 8	1	0	0
+		running pid: 2		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 6
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 7	2	0	0
+		running pid: 3		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 7
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 7	2	0	0
+		running pid: 3		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 8
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 6	3	0	0
+		running pid: 4		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 9
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 6	3	0	0
+		running pid: 4		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 10
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 5	4	0	0
+		running pid: 5		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 11
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 5	4	0	0
+		running pid: 5		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 12
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 4	5	0	0
+		running pid: 6		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 13
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 4	5	0	0
+		running pid: 6		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 14
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 3	6	0	0
+		running pid: 7		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 15
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 3	6	0	0
+		running pid: 7		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 16
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 2	7	0	0
+		running pid: 8		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 17
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 2	7	0	0
+		running pid: 8		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 18
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 1	8	0	0
+		running pid: 9		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 19
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 1	8	0	0
+		running pid: 9		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 20
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	9	0	0
+		running pid: 10		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 21
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	9	0	0
+		running pid: 10		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 22
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	9	0	0
+		running pid: 1		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 23
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	9	0	0
+		running pid: 1		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 24
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	8	0	0
+		running pid: 2		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 25
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 3		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 26
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 3		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 27
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 3		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 28
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 4		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 29
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 4		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 30
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 4		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 31
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 4		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 32
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 5		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 33
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 5		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 34
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 5		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 35
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 5		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 36
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	4	1	0
+		running pid: 6		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 37
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 7		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 38
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 7		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 39
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 7		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 40
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 7		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 41
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 8		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 42
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 8		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 43
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 8		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 44
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 8		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 45
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	1	3	0
+		running pid: 9		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 46
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	1	3	0
+		running pid: 9		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 47
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	1	3	0
+		running pid: 9		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 48
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	0	3	0
+		running pid: 10		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 49
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	0	3	0
+		running pid: 10		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 50
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	0	2	0
+		running pid: 5		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 51
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 7		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 52
+		#ready job: 0		running jid : 12416
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 8		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 53
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 54
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 55
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 56
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 57
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 58
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 59
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 60
+		#ready job: 0		running jid : 28163
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 11		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 61
+		#ready job: 1		running jid : 28163
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 11		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 62
+		#ready job: 2		running jid : 28163
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 12		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 63
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 12		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 64
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 13		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 65
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 13		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 66
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 14		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 67
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 14		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 68
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 15		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 69
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 15		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 70
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 16		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 71
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 16		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 72
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 17		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 73
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 17		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 74
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 18		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 75
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 18		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 76
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 11		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 77
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 11		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 78
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 12		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 79
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 12		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 80
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 12		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 81
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 13		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 82
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 13		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 83
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 14		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 84
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 14		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 85
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 14		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 86
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 14		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 87
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 15		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 88
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 15		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 89
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 16		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 90
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 16		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 91
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 16		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 92
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 16		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 93
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 17		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 94
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 17		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 95
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 18		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 96
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 18		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 97
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 18		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 98
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 18		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 99
+		#ready job: 4		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 14		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 100
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 19		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 101
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 19		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 102
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 20		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 103
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 20		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 104
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 21		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 105
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 21		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 106
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 22		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 107
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 22		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 108
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 23		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 109
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 23		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 110
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 24		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 111
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 24		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 112
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 25		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 113
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 25		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 114
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 26		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 115
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 26		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 116
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 19		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 117
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 20		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 118
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 20		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 119
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 20		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 120
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 20		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 121
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	5	1	0
+		running pid: 21		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 122
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	5	1	0
+		running pid: 21		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 123
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	4	1	0
+		running pid: 22		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 124
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 23		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 125
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 23		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 126
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 24		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 127
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 24		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 128
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 24		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 129
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	2	1	0
+		running pid: 24		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 130
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 25		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 131
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 26		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 132
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 26		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 133
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 26		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 134
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 26		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 135
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 20		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 136
+		#ready job: 3		running jid : 28163
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 26		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 137
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 27		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 138
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 27		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 139
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 28		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 140
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 28		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 141
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 29		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 142
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 29		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 143
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 30		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 144
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 30		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 145
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 31		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 146
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 31		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 147
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 32		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 148
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 32		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 149
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 33		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 150
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 33		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 151
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 34		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 152
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 34		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 153
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 27		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 154
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 27		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 155
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 27		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 156
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 27		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 157
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	6	1	0
+		running pid: 28		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 158
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	6	1	0
+		running pid: 28		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 159
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	6	1	0
+		running pid: 28		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 160
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	6	1	0
+		running pid: 28		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 161
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	5	2	0
+		running pid: 29		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 162
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	5	2	0
+		running pid: 29		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 163
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	5	2	0
+		running pid: 29		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 164
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	4	2	0
+		running pid: 30		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 165
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	4	2	0
+		running pid: 30		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 166
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	4	2	0
+		running pid: 30		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 167
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	4	2	0
+		running pid: 30		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 168
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	3	2	0
+		running pid: 31		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 169
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	3	2	0
+		running pid: 31		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 170
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 32		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 171
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 32		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 172
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 32		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 173
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	1	2	0
+		running pid: 33		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 174
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	1	2	0
+		running pid: 33		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 175
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	1	2	0
+		running pid: 33		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 176
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	1	2	0
+		running pid: 33		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 177
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	0	2	0
+		running pid: 34		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 178
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	0	2	0
+		running pid: 34		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 179
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	0	2	0
+		running pid: 34		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 180
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 27		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 181
+		#ready job: 2		running jid : 28165
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 28		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 182
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 35		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 183
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 35		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 184
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 36		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 185
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 36		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 186
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 37		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 187
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 37		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 188
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 38		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 189
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 38		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 190
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 39		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 191
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 39		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 192
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 40		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 193
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 40		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 194
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 41		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 195
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 41		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 196
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 42		current time slice left: 2		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 197
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 42		current time slice left: 1		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 198
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 35		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 199
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 35		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 200
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 35		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 201
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 36		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 202
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 37		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 203
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 37		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 204
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 37		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 205
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 38		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 206
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 38		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 207
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	4	0	0
+		running pid: 38		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 208
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	3	0	0
+		running pid: 39		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 209
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	3	0	0
+		running pid: 39		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 210
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	3	0	0
+		running pid: 39		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 211
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	3	0	0
+		running pid: 39		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 212
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	2	0	0
+		running pid: 40		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 213
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	2	0	0
+		running pid: 40		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 214
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	2	0	0
+		running pid: 40		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 215
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	2	0	0
+		running pid: 40		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 216
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 41		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 217
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 41		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 218
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 41		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 219
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	1	1	0
+		running pid: 41		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 220
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 42		current time slice left: 4		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 221
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 42		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 222
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 42		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 223
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 42		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 224
+		#ready job: 1		running jid : 28167
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 40		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 225
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 43		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 226
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 7	0	0	0
+		running pid: 43		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 227
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 44		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 228
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 6	1	0	0
+		running pid: 44		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 229
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 45		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 230
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 5	2	0	0
+		running pid: 45		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 231
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 46		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 232
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 4	3	0	0
+		running pid: 46		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 233
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 47		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 234
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 3	4	0	0
+		running pid: 47		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 235
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 48		current time slice left: 2		total time left: 7
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 236
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 2	5	0	0
+		running pid: 48		current time slice left: 1		total time left: 6
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 237
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 49		current time slice left: 2		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 238
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 1	6	0	0
+		running pid: 49		current time slice left: 1		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 239
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 50		current time slice left: 2		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 240
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 50		current time slice left: 1		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 241
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 43		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 242
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 43		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 243
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	7	0	0
+		running pid: 43		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 244
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 44		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 245
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 44		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 246
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	6	0	0
+		running pid: 44		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 247
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 45		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 248
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 45		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 249
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 45		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 250
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	5	0	0
+		running pid: 45		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 251
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	4	1	0
+		running pid: 46		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 252
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	4	1	0
+		running pid: 46		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 253
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 47		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 254
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 47		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 255
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 47		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 256
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	3	1	0
+		running pid: 47		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 257
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 48		current time slice left: 4		total time left: 5
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 258
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 48		current time slice left: 3		total time left: 4
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 259
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 48		current time slice left: 2		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 260
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	2	2	0
+		running pid: 48		current time slice left: 1		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 261
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	1	3	0
+		running pid: 49		current time slice left: 3		total time left: 3
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 262
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	1	3	0
+		running pid: 49		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 263
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	1	3	0
+		running pid: 49		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 264
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	0	3	0
+		running pid: 50		current time slice left: 2		total time left: 2
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 265
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	0	3	0
+		running pid: 50		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 266
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	0	2	0
+		running pid: 45		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 267
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	0	1	0
+		running pid: 47		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 268
+		#ready job: 0		running jid : 28169
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 48		current time slice left: 1		total time left: 1
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 269
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
+		time 270
+		#ready job: 0		running jid : 0
+		#ready process(1, 2, 3, 4): 0	0	0	0
+		running pid: 0		current time slice left: 0		total time left: 0
+		#suspended process: 0
+		#blocked process: NaN
+
