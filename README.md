@@ -1,4 +1,4 @@
-# undergraduateproject
+# undergraduate-project
 
 Course projects as a undergrad
 
