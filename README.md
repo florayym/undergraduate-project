@@ -2,6 +2,8 @@
 
 Course projects as a undergrad
 
-- Computer network FTP client project
+- Computer network FTP client
 
-- OS scheduling project
+- OS scheduling framework & algorithms
+
+- Compiler
