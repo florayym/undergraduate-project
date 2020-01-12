@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>NBA PG Statistics Mining and Visualization</title>
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="shortcut icon" href="assets/favicon.ico">
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <!-- Load color palettes -->
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <!--References:
+        <1> https://www.d3-graph-gallery.com/graph/heatmap_style.html
+        <2> https://bl.ocks.org/micahstubbs/703b1c69a28f5a9d17b645d1253c1233
+        <3> -->
+</head>
+
+<body>
+
+<header>
+    <img src="assets/cp3_logo.jpg" alt="Fifa WC Russia Logo" id="logo"/>
+    <h1>Exploring NBA Point Guard Statistics!</h1>
+</header>
+
+<div id="details" class="view">
+    <h2 id="question">问题探索</h2>
+    <h3>·哪些数据对控球后卫真实正负值（RPM）影响较大？</h3>
+    <span id="co-rpm"></span>
+    <h3>·如何判断一名控球后卫“独”不“独”？</h3>
+    <span id="sole"></span>
+    <h3>·比分焦灼时，“大场面”先生如何挺身而出？</h3>
+    <span id="killer"></span>
+</div>
+
+<div id="heat-map" class="view plot">
+    <h2 class="">基础数据与RPM的相关分析</h2>
+    <p><br>在下方的热力图中，若方框的大小越大、颜色越重，则其横纵坐标对应的两项数据线性相关性越大。</p>
+    <p></p>
+    <div class="plot-selector" id="heatmap-year-selector">
+        <label><br>目前展示的是</label>
+        <select id="year" onchange="chooseYear()">
+            <option selected value="14">13-14</option>
+            <option value="15">14-15</option>
+            <option value="16">15-16</option>
+            <option value="17">16-17</option>
+            <option value="18">17-18</option>
+            <option value="19">18-19</option>
+        </select>
+        <label>赛季的热力图！</label>
+    </div>
+    <p></p>
+
+    <svg class="heatmap" id="heatmap">
+        <g id="row"></g>
+        <g id="column"></g>
+        <g id="grid"></g>
+        <g id="hmTitle"></g>
+    </svg>
+
+    <div id="tool-tip", class="tooltip"></div>
+
+    <div class="sliderTextSVG" id="slider-container">
+        <input></input>
+    </div>
+</div>
+
+<div id="charts" class="view plot">
+    <h2 class="">用AST%和USG%衡量一名“团队球员”</h2>
+    <div class="plot-selector">
+        <label>选中球员：</label>
+        <select id="topPG" onchange="chooseData()">
+            <option selected value="cpaul">Chris Paul</option>
+            <option value="snash">Steve Nash</option>
+            <option value="jkidd">Jason Kidd</option>
+            <option value="scurry">Stephen Curry</option>
+        </select>
+        <label><br><br><br>他的最好一季的“助攻率-回合占有率”比<br><br>为<span id="maxA/U"></span>！</label>
+        <label><br><br><br><span id="currentA/U">点击条带显示当前数据！</span></label>
+    </div>
+    <svg id="barChart">
+        <g id="xAxis"></g>
+        <g id="yAxis"></g>
+        <g id="bars"></g>
+    </svg>
+    <p><br>在此展示了几名控球后卫的“助攻率（AST%）-回合占有率（USG%）”之比的柱状图。<br></p>
+</div>
+
+<div id="scatter_div" class="view plot">
+    <h2>用散点图再作比较</h2>
+    <svg id="scatterPlot">
+        <g id="xAxis"></g>
+        <g id="yAxis"></g>
+        <g id="dot-1"></g>
+        <g id="dot-2"></g>
+        <g id="dot-3"></g>
+        <g id="dot-4"></g>
+        <!--g id="scatterPlot"></g-->
+        <g id="scatterLegend">
+            <g id="legendIcon"></g>
+            <g id="legendLabel"></g>
+        </g>
+    </svg>
+</div>
+
+<div id="line-plot" class="view plot">
+    <h2 class="">胶着时刻（五分分差之内）的表现：Chris Paul</h2>
+    <div class="plot-selector">
+        <label>当前展示的数据是：</label>
+        <select id="stat" onchange="chooseStat()">
+            <option selected value="FG%">FG%</option>
+            <option value="3P%">3P%</option>
+            <option value="eFG%">eFG%</option>
+        </select>
+    </div>
+    <svg id="linePlot">
+        <g id="year"></g>
+        <g id="pointValue"></g>
+    </svg>
+    <article float="right"></article>
+</div>
+
+<footer class="main-footer">
+	<p>Website by <a href="mailto:2016211389@mail.hfut.edu.cn">Qifei Yu</a>.</p>
+	<p>Basketball data and photos from <a href="https://www.basketball-reference.com">basketball-reference.com</a> and <a href="http://www.espn.com/nba/statistics/rpm">espn.com</a>.</p>
+</footer>
+
+<script type="application/javascript" src="script.js"></script>
+</body> 
+</html>

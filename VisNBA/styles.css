@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'dusha';
+    src: url('assets/dusha.ttf');
+}
+
+@font-face {
+    font-family: 'aller';
+    src: url('assets/aller.ttf');
+}
+
+@media(max-width:768px) {
+    header { padding: 30px 20px; }
+    h1 { font-size: 36px; margin-bottom: 22px; }
+    p { font-size: 18px; }
+    h3 { margin: 10px 0 20px 0; }
+  }
+
+h1 {
+    margin-top: 20px;
+    font-family: 'dusha';
+    color: #065dff;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: 'dusha';
+    color: #065dff;
+    padding-bottom: 0px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header {
+    padding: 0.5em;
+    clear: center;
+    text-align: center;
+    height: 100px;
+}
+
+#logo {
+    float: right;
+    height: 100px;
+}
+
+#links > line {
+    stroke: rgb(216, 216, 216);
+}
+
+#xAxis path,
+#yAxis path {
+    fill: none;
+    stroke: black;
+}
+
+#xAxis text,
+#yAxis text {
+    font-size: 14px;
+
+}
+
+/*-------------- my add may be deleted --------------*/
+
+#details {
+    float: left;
+    /*width: 300px;
+    height: 1700px;*/
+    padding: 10px;
+    margin-right: 100px;
+    margin-left: 25px;
+    line-height: 50px;
+/*
+    border-width: 1px;
+    border-color: #d9d9d9;
+    border-right-style: solid;
+*/
+}
+
+.view {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.plot-selector {
+    float: right;
+    margin-bottom: 5px;
+}
+
+.plot {
+    float: left;
+    margin-right: 20px;
+}
+
+#heatmap {
+    width: 525px;
+    height: 475px;
+}
+
+#barChart {
+    width: 450px;
+    height: 450px;
+}
+
+#linePlot {
+    width:  450px;
+    height: 450px;
+}
+
+#scatterPlot {
+    width: 650px;
+    height: 350px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f1f1f1e5;
+    padding-bottom: 58px; /*height of footer*/
+    padding-left: 25px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    background:  rgba(255, 168, 37, 0.521);
+    border-width: 1px;
+    border-color: #d9d9d9;
+    border-top-style: solid;
+}
+
+.tooltip {
+    opacity: 0;
+    background-color: #065dff2a;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+line {
+    stroke: gray;
+  }
+  
+line#limit {
+    stroke: #FED966;
+    stroke-width: 3;
+    stroke-dasharray: 3 6;
+}
+
+/* Change stroke color of circle on hover (white -> black) */
+.bubbles {
+  stroke-width: 1px;
+  stroke: black;
+  opacity: .8
+}
+.bubbles:hover {
+  stroke: black;
+}

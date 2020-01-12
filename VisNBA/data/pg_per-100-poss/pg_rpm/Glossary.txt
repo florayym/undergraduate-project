@@ -1,0 +1,6 @@
+GP: Games Played
+MPG: Minutes Per Game
+ORPM: Player's estimated on-court impact on team offensive performance, measured in points scored per 100 offensive possessions
+DRPM: Player's estimated on-court impact on team defensive performance, measured in points allowed per 100 defensive possessions
+RPM: Player's estimated on-court impact on team performance, measured in net point differential per 100 offensive and defensive possessions. RPM takes into account teammates, opponents and additional factors
+WINS: "RPM Wins" provide an estimate of the number of wins each player has contributed to his team's win total on the season. RPM Wins include the player's Real Plus-Minus and his number of possessions played.
