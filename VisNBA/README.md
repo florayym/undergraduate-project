@@ -68,4 +68,4 @@ The data is retrieved from [basketball-reference](https://www.basketball-referen
 ## DONE!
 
 Final visualization:
-![Final Visualization](figs/finaloverview.wmv)
+![Final Visualization](figs/final_overview.png)
