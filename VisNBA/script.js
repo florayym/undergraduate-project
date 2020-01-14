@@ -24,7 +24,7 @@ function updateBarChart() {
             .range([margin.left, svgBounds.width])
             .padding(.1);
     
-    var maxY = d3.max(playerData, function (d) {return d['AST%'] / d['USG%'];}),
+    var maxY = d3.max(playerData, function (d) {return 1.3 * d['AST%'] / d['USG%'];}),
     yScale = d3.scaleLinear()
             .domain([0, maxY])
             .range([svgBounds.height - margin.bottom, 0]);
@@ -556,6 +556,26 @@ function updateLineChart (selectedCol) {
                 .y(function (d) {return yScale(+d[selectedCol]);})
             );
 
+    // Exit old dots!
+    var dotsA = svg.selectAll(".dotA");
+    dotsA
+        .exit()
+        .remove();
+
+    // Add new dots A!
+    dotsA
+        .data(lineChartDataA)
+        .enter()
+        .append("circle")
+        .merge(dotsA)
+            .attr("class", "dotA")
+            .attr("fill", "#136bddb9")
+            .attr("stroke", "#136bddb9")
+            .attr("opacity", 0.5)
+            .attr("cx", function (d) {return xScale(d.Season);})
+            .attr("cy", function (d) {return yScale(+d[selectedCol]);})
+            .attr("r", 5);
+
 
     // Then add data B line
     svg.datum(lineChartDataB)
@@ -563,11 +583,32 @@ function updateLineChart (selectedCol) {
         .attr("class", "linepath")
                 .attr("fill","none")
                 .attr("stroke","rgba(226, 152, 13, 0.678)")
+                .attr("stroke-dasharray", "10,10")
                 .attr("stroke-width", 1.5)
                 .attr("d", d3.line()
                         .x(function (d) {return xScale(d.Season);})
                         .y(function (d) {return yScale(+d[selectedCol]);})
                     );
+
+    // Exit and add new dots!
+    var dotsB = svg.selectAll(".dotB");
+    dotsB
+        .exit()
+        .remove();
+
+    // Add new dots A!
+    dotsB
+        .data(lineChartDataB)
+        .enter()
+        .append("circle")
+        .merge(dotsB)
+            .attr("class", "dotB")
+            .attr("fill", "rgba(226, 152, 13, 0.678)")
+            .attr("stroke", "rgba(226, 152, 13, 0.678)")
+            .attr("opacity", 0.5)
+            .attr("cx", function (d) {return xScale(d.Season);})
+            .attr("cy", function (d) {return yScale(+d[selectedCol]);})
+            .attr("r", 5);
 
 }
 
