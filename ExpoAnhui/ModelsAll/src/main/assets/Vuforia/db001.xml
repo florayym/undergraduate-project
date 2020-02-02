@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="architecture" size="400.000000 266.562500" />
+    <ImageTarget name="pine" size="400.000000 263.259247" />
+    <ImageTarget name="drama" size="400.000000 299.791809" />
+    <ImageTarget name="bamboo" size="400.000000 486.371674" />
+    <ImageTarget name="xinanlixue" size="400.000000 266.666656" />
+  </Tracking>
+</QCARConfig>

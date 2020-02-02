@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yinglian" size="400.000000 266.571442" />
+    <ImageTarget name="zhubian" size="400.000000 294.786743" />
+    <ImageTarget name="yingkesong" size="400.000000 263.388947" />
+    <ImageTarget name="xinanlixue" size="400.000000 266.666656" />
+    <ImageTarget name="tangyuepaifang" size="400.000000 267.200012" />
+    <ImageTarget name="huipaijianzhu" size="400.000000 266.562500" />
+    <ImageTarget name="huimo" size="400.000000 300.000000" />
+    <ImageTarget name="huicha" size="400.000000 224.666672" />
+    <ImageTarget name="huangshanguaishi" size="400.000000 266.750000" />
+    <ImageTarget name="fengyanghuagu" size="400.000000 260.000000" />
+    <ImageTarget name="huangmeixi" size="400.000000 299.791809" />
+    <ImageTarget name="xinanhuapai" size="400.000000 280.438171" />
+  </Tracking>
+</QCARConfig>

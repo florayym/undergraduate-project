@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myGrey">#9E9E9E</color>        <!--灰色-->
+    <color name="myLightGrey">#FCFAF2</color>   <!--灰黄-->
+    <color name="myPinkGrey">#DAC9A6</color>        <!--灰粉-->
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
