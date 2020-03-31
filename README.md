@@ -1,6 +1,6 @@
 # undergraduate-project
 
-Course projects as a undergrad
+Course projects as an undergraduate:
 
 - Computer network FTP client
 
